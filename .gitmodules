@@ -1,0 +1,9 @@
+[submodule "base"]
+  path = base
+  url = git@github.com:dickeyxxx/docker-base
+[submodule "apache2-docker"]
+  path = apache2-docker
+  url = git@github.com:dickeyxxx/apache2-docker
+[submodule "coreos-vagrant"]
+  path = coreos-vagrant
+  url = git@github.com:coreos/coreos-vagrant
