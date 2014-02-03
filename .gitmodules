@@ -10,3 +10,6 @@
 [submodule "redis"]
   path = redis
   url = git@github.com:dickeyxxx/docker-redis
+[submodule "hermes"]
+  path = hermes
+  url = git@github.com:dickeyxxx/hermes
