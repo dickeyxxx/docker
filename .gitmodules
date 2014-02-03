@@ -7,3 +7,6 @@
 [submodule "haproxy"]
   path = haproxy
   url = git@github.com:dickeyxxx/docker-haproxy
+[submodule "redis"]
+  path = redis
+  url = git@github.com:dickeyxxx/docker-redis
