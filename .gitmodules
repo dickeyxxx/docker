@@ -13,3 +13,6 @@
 [submodule "hermes"]
   path = hermes
   url = git@github.com:dickeyxxx/hermes
+[submodule "docker-newrelic-haproxy-agent"]
+  path = docker-newrelic-haproxy-agent
+  url = git@github.com:dickeyxxx/docker-newrelic-haproxy-agent
